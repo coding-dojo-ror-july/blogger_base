@@ -1,0 +1,11 @@
+
+<% if @user %>
+  <a href="/signout">Sign Out</a>
+  <h1><%= @user.username %></h1>
+<% else %>
+  <a href="/signin">Sign In</a>
+<% end %>
+
+<h1>Blogs:</h1>
+
+yada yada
