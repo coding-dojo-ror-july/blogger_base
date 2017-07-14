@@ -1,24 +1,13 @@
-# README
+# Blogger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Challenges
 
-Things you may want to cover:
+* Start a blog (upon registration)
 
-* Ruby version
+* Make blog posts
 
-* System dependencies
+* View others' posts (even if not logged in)
 
-* Configuration
+* List of all blogs
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* List of all posts for each blog
